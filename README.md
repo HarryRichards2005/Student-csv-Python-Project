@@ -31,7 +31,7 @@ The purpose of this project in python was to look at details about students. I l
 </div>
 
 
-The pivot table looks like this <img width="769" height="789" alt="image" src="https://github.com/user-attachments/assets/61637fca-8684-45f5-8d55-9d35e008c53f" />
+
 
 
 
