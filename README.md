@@ -1,4 +1,4 @@
-# Student-csv-Python-Project
+# Student-Python-Project
 
 <p>
 The purpose of this project in python was to look at details about students. I looked to specify which students achieved which marks, what marks were achieved by the individual classes, and whether they had passed or not. As well as using python to create pivot tables. I wanted to use this dataset to look at overall performance to create insights that the school can use to determine which classes and students they need to focus on. This table contains data about students such as id, name, class, mark, gender. 
