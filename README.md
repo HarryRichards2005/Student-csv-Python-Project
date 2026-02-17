@@ -31,12 +31,25 @@ The purpose of this project in python was to look at details about students. I l
 <p>This gives a clear representation of the students progress and can be looked at by the school to track progress</p>
 </div>
 <div>
+<h2>Creating a Pivot Table</h2>
+<img width="527" height="512" alt="image" src="https://github.com/user-attachments/assets/4e1b49e0-700c-4888-8a93-39a0b4931309" />
+<p>This demonstrates very useful functions in the Pandas library. Creating a pivot table that calculates the average marks for females and males in each class.</p>
+<ul>
+<li>Data - the original dataframe</li>
+<li>values='mark'- the numeric column to aggregate</li>
+<li>index='class' - rows the pivot table will be grouped by</li>
+<li>columns='gender' - columns the pivot table will be seperated by</li>
+</ul>
+
+</div>
+<div>
 <h2>What I have learned</h2>
 <p>This was my intro to python and I have leaned how to write the code and apply it to certain scenarios. For Example:</p>
 <ul>
 <li>Loading CSV files into a Pandas DataFrame</li>
 <li>Writing code to display certain rows of data</li>
 <li>How to search for specified columns</li>
+<li>How to utilise the Pandas Library</li>
 </ul>
 
 </div>
