@@ -37,7 +37,6 @@ The purpose of this project in python was to look at details about students. I l
 <li>Loading CSV files into a Pandas DataFrame</li>
 <li>Writing code to display certain rows of data</li>
 <li>How to search for specified columns</li>
-
 </ul>
 
 </div>
@@ -47,4 +46,4 @@ The purpose of this project in python was to look at details about students. I l
 
 
 
-</p>
+
