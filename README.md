@@ -3,6 +3,7 @@
 <p>
 The purpose of this project in python was to look at details about students. I looked to specify which students achieved which marks, what marks were achieved by the individual classes, and whether they had passed or not. As well as using python to create pivot tables. I wanted to use this dataset to look at overall performance to create insights that the school can use to determine which classes and students they need to focus on. This table contains data about students such as id, name, class, mark, gender. 
 </p>
+<p>I used the python library Pandas to analyzse and explore this data set. I used it because it can answer a lot of questions about data such as max value?, min value?, what is the average? All  useful when looking at student marks.</p>
 <div>
 <h2>Analysis of students marks</h2>
 <img width="934" height="731" alt="image" src="https://github.com/user-attachments/assets/d2e6a97d-73b3-4e0d-9cbd-ce5556d285e7" />
