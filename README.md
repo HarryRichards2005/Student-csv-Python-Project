@@ -32,7 +32,14 @@ The purpose of this project in python was to look at details about students. I l
 </div>
 <div>
 <h2>What I have learned</h2>
-<p>This was my intro to python and ai have leaned how to write the code and apply it to certain scenarios</p>
+<p>This was my intro to python and I have leaned how to write the code and apply it to certain scenarios. For Example:</p>
+<ul>
+<li>Loading CSV files into a Pandas DataFrame</li>
+<li>Writing code to display certain rows of data</li>
+<li>How to search for specified columns</li>
+
+</ul>
+
 </div>
 
 
